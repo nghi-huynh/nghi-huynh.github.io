@@ -13,7 +13,7 @@
 
 ---
 [COVID-19 Misinformation detection using deep learning](https://github.com/nghi-huynh/covid-19-misinfo-detection)
-<img src="images/covid_misinfo.png"/>
+<img src="images/covid.png"/>
 
 ---
 
