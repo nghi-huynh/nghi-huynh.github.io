@@ -5,15 +5,15 @@
 ### Data Science
 
 [Sartorius-cell instance segmentation using Mask R-CNN](https://medium.com/mlearning-ai/cell-instance-segmentation-using-mask-r-cnn-c7a3810192ff)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/cell_instance.png"/>
 
 ---
 [Brain tumor segmentation](https://devpost.com/software/brain-tumor-segmentation-using-resunet)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/brain.png"/>
 
 ---
 [COVID-19 Misinformation detection using deep learning](https://github.com/nghi-huynh/covid-19-misinfo-detection)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/covid_misinfo.png"/>
 
 ---
 
