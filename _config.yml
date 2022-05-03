@@ -1,9 +1,11 @@
 title: Nghi Huynh # your name (or website title) here
 logo: "/images/IMG_1591.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hello, I'm Nghi. I'm a McGill graduate with a bachelor's in Computer Science and Biology and a minor in Mathematics. I'm interested in data science, especially the applications of deep learning in the healthcare domain
   <br><br>
-  Second description 
+  I'm currently developing a creative deep learning solution to automatically segment the stomach and intestine on MRI scans from patients with gastrointestinal tract cancer. This project is a part of the University of Wisconsin-Madison Carbone Cancer Center research project. If successful, this project will help cancer patients get better care in the long term. I'm looking forward to connecting with like-minded partners to bring this project to the next level.
+  <br><br>
+  Besides working on my projects, you can find me playing chess (mostly bullet and blitz) or writing stories about machine learning/ deep learning in my spare time. 
   <br><br>
   <a href="https://www.linkedin.com/in/nghi-huynh-2b9700158/">View My LinkedIn Profile</a> 
   <br><br>
