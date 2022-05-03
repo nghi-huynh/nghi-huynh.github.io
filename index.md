@@ -2,7 +2,7 @@
 
 ---
 
-### Data Science
+### My Data Science Projects
 
 [Sartorius-cell instance segmentation using Mask R-CNN](https://medium.com/mlearning-ai/cell-instance-segmentation-using-mask-r-cnn-c7a3810192ff)
 <img src="images/cell_instance.png"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Machine Learning/ Deep Learning Blogs
+### My Machine Learning/ Deep Learning Stories
 
 - [Neural Networks](https://medium.com/mlearning-ai/neural-networks-ba6fa76eb719)
 - [Convolutional Neural Networks for Image Recognition ](https://medium.com/mlearning-ai/convolutional-neural-networks-for-image-recognition-7148a19f981f)
