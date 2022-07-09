@@ -5,7 +5,9 @@ permalink: /portfolio/
 
 # Machine Learning Projects
 
-[KYMN-Mental Health Chatbot Powered by AI](https://github.com/nghi-huynh/mental_health_chatbot)
+---
+
+[KYMN-Mental Health Chatbot Powered by AI](https://github.com/nghi-huynh/mental_health_chatbot)<img src="images/dummy_thumbnail.jpg">
 
 ---
 
