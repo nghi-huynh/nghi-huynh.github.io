@@ -1,9 +1,3 @@
----
-layout: page
-title: About Me
-tags: [about]
-comments: false
----
 
 **This can be your internal website page / project page**
 
