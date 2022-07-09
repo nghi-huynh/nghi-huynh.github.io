@@ -8,7 +8,6 @@ permalink: /portfolio/
 ---
 
 [KYMN-Mental Health Chatbot Powered by AI](https://github.com/nghi-huynh/mental_health_chatbot)
-![Image](https://github.com/nghi-huynh/nghi-huynh.github.io/blob/master/images/brain.png)
 
 ---
 
