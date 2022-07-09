@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Portfolio
+# Portfolio
 
 ---
 
@@ -33,12 +33,24 @@ layout: default
 [COVID-19 Misinformation detection using deep learning](https://github.com/nghi-huynh/covid-19-misinfo-detection)
 
 
-### Machine Learning/ Deep Learning Stories
+# Blogs
+
+---
+
+### Machine Learning Stories
 
 - [Neural Networks](https://medium.com/mlearning-ai/neural-networks-ba6fa76eb719)
 - [Convolutional Neural Networks for Image Recognition ](https://medium.com/mlearning-ai/convolutional-neural-networks-for-image-recognition-7148a19f981f)
 - [Vision beyond classification: Object detection](https://medium.com/mlearning-ai/vision-beyond-classification-task-i-object-detection-d2f32a5ea4ca)
 - [Vision beyond classification: Image Segmentation](https://medium.com/mlearning-ai/vision-beyond-classification-tasks-beyond-classification-task-ii-image-segmentation-5c5e81edf2b0)
+
+# Publications
+
+<span style="color:green;font-weight:700;font-size:20px">
+    2022
+</span>
+
+[Time trends and predictions of mental health and suicide rates based on so- cioeconomic indicators from 2000 to 2019](https://journal.stemfellowship.org/doi/pdf/10.17975/sfj-2022-010)
 
 
 ---
