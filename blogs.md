@@ -5,6 +5,8 @@ permalink: /blogs/
 
 # Machine Learning Stories
 
+<img src="./images/cell_instance.png">
+
 - [Neural Networks](https://medium.com/mlearning-ai/neural-networks-ba6fa76eb719)
 - [Convolutional Neural Networks for Image Recognition ](https://medium.com/mlearning-ai/convolutional-neural-networks-for-image-recognition-7148a19f981f)
 - [Vision beyond classification: Object detection](https://medium.com/mlearning-ai/vision-beyond-classification-task-i-object-detection-d2f32a5ea4ca)
