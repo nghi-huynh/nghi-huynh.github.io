@@ -52,6 +52,13 @@ layout: default
 
 [Time trends and predictions of mental health and suicide rates based on so- cioeconomic indicators from 2000 to 2019](https://journal.stemfellowship.org/doi/pdf/10.17975/sfj-2022-010)
 
+--- 
+
+<span style="color:green;font-weight:700;font-size:20px">
+    2021
+</span>
+
+[CoAID: Detecting Misleading Information Using Deep Learning Models](https://journal.stemfellowship.org/doi/pdf/10.17975/sfj-2021-003)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
