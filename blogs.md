@@ -1,3 +1,9 @@
+---
+layout: default
+permalink: /blogs/
+---
+
+# Machine Learning Stories
 
 **This can be your internal website page / project page**
 
