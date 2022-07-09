@@ -1,12 +1,3 @@
----
-layout: page
-title: About Me
-tags: [about]
-comments: false
----
-
-I'm a data scientist at [Heap](https://heap.io/). My interests include statistics, data analysis, education, and programming in R.
-
 ## Portfolio
 
 ---
