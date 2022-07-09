@@ -7,7 +7,7 @@ layout: default
 
 ### Machine Learning Projects
 
-[KYMN-Mental Health Chatbot Powered by AI](https://github.com/nghi-huynh/mental_health_chatbot)<img src="images/cell_instance.png"/>
+[KYMN-Mental Health Chatbot Powered by AI](https://github.com/nghi-huynh/mental_health_chatbot)
 
 ---
 
@@ -25,7 +25,7 @@ layout: default
 
 ### Data Science Projects
 
-[Time Trends and Predictions of Mental Health and Suicide Rates based on Socioeconomic Indicators)(https://github.com/nghi-huynh/BigDataChallenge2022)
+[Time Trends and Predictions of Mental Health and Suicide Rates based on Socioeconomic Indicators](https://github.com/nghi-huynh/BigDataChallenge2022)
 <img src="images/mental_prevalence_world_map.png"/>
 
 ---
