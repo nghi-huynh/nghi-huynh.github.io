@@ -2,20 +2,20 @@
 layout: default
 ---
 
-<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; About Me</h2>
+<h2 align="center">About Me</h2>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello, I'm Nghi. I'm a McGill graduate with a major in Computer Science and Biology and a minor in Mathematics. I'm interested in data science, especially the applications of deep learning in the healthcare domain.
+Hello, I'm Nghi. I'm a McGill graduate with a major in Computer Science and Biology and a minor in Mathematics. I'm interested in data science, especially the applications of deep learning in the healthcare domain.
 
 My areas of interest:
 
 * Computer Vision
 * Machine Learning
 * NLP
-* Data Analytics</p>
+* Data Analytics
 
 ---
 
-## My Latest Projects
+<h2 align="center">My Latest Projects</h2>
 
 [Kaggle Competition: EDA HuBMAP + HPA - Hacking the Human Body](https://www.kaggle.com/code/nghihuynh/hubmap-hpa-exploratory-data-analysis)
 <img src="images/img_hpa_info.png"/>
@@ -32,7 +32,7 @@ My areas of interest:
 
 ---
 
-## Publications
+<h2 align="center">Publications</h2>
 
 <span style="color:green;font-weight:700;font-size:20px">
     2022
