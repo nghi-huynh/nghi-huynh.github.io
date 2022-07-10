@@ -8,6 +8,13 @@ description:
   <a href="https://github.com/nghi-huynh">GitHub</a>
   </p>
   
+  <p align="center">
+  Entry-Level Data Scientist |
+  <br>
+  Chess Strategist |
+  <br>
+  </p>
+  
   <p align="justify">
   Hello, I'm Nghi. I'm a McGill graduate with a major in Computer Science and Biology and a minor in Mathematics.
   <br><br>
@@ -15,9 +22,6 @@ description:
   <br><br>
   </p>
   
-owner:
-  email: admiral.david@gmail.com
-  github: dgrtwo
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
