@@ -8,7 +8,7 @@ layout: default
 
 Hello, I'm Nghi. I'm a McGill graduate with a major in Computer Science and Biology and a minor in Mathematics. I'm interested in data science, especially the applications of deep learning in the healthcare domain.
 
-My areas of interest:
+**My areas of interest:**
 
 * Computer Vision
 * Machine Learning
