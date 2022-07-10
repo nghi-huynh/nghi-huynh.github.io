@@ -8,8 +8,7 @@ permalink: /portfolio/
 <h2 align="center">Machine Learning Projects</h2>
 
 [KYMN-Mental Health Chatbot Powered by AI](https://github.com/nghi-huynh/mental_health_chatbot)
-![image](https://github.com/nghi-huynh/nghi-huynh.github.io/blob/master/images/brain.png)
-
+<img src="images/mental_prevalence_world_map.png"/>
 ---
 
 [Sartorius-cell instance segmentation using Mask R-CNN](https://medium.com/mlearning-ai/cell-instance-segmentation-using-mask-r-cnn-c7a3810192ff)
