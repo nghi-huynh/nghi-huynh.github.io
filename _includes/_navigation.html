@@ -5,7 +5,7 @@
 	<div class="top-navigation">
 		<nav role="navigation" id="site-nav" class="nav">
 		    <ul>
-		        {% for link in site.data.navigation %}
+		        {% for link in site.data.menu %}
 					    {% if link.url contains 'http' %}
 					        {% assign domain = '' %}
 					        {% else %}
