@@ -6,7 +6,7 @@ layout: default
 
 Hello, I'm Nghi. I'm a McGill graduate with a major in Computer Science and Biology and a minor in Mathematics. I'm interested in data science, especially the applications of deep learning to improve healthcare and clinical decision-making.
 
-My areas of Interest:
+My areas of interest:
 
 * Computer Vision
 * Machine Learning
@@ -16,6 +16,11 @@ My areas of Interest:
 ---
 
 # My Latest Projects
+
+[Kaggle Competition: HuBMAP + HPA - Hacking the Human Body](https://www.kaggle.com/code/nghihuynh/hubmap-hpa-exploratory-data-analysis)
+<img src="images/img_hpa_info.png"/>
+
+---
 
 [KYMN-Mental Health Chatbot Powered by AI](https://github.com/nghi-huynh/mental_health_chatbot)
 
