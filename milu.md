@@ -3,4 +3,4 @@ layout: default
 permalink: /milu/
 ---
 
-# Milu's Best Photos
+## Milu's Best Photos
