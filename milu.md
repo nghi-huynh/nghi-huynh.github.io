@@ -3,4 +3,5 @@ layout: default
 permalink: /milu/
 ---
 
-## Milu's Best Photos
+---
+<h2 align="center">Milu's Best Photos</h2>
