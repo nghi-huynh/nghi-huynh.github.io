@@ -2,14 +2,6 @@ logo: "/images/logo-nghi.png" # your photo (or logo) here
 title: <p align="center"> Nghi Huynh </p> # your name (or website title) here
 
 description:
-  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-  <p>Some Font Awesome icons:</p>
-  <i class="fas fa-band-aid"></i>
-  <i class="fas fa-cat"></i>
-  <i class="fas fa-dragon"></i>
-  <i class="far fa-clock"></i>
-  <i class="fas fa-clock"></i>
-  
   <p align="left">
   Entry-Level Data Scientist | Chess Strategist
   </p>
