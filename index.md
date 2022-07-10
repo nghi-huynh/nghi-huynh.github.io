@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About Me
+## About Me
 
 Hello, I'm Nghi. I'm a McGill graduate with a major in Computer Science and Biology and a minor in Mathematics. I'm interested in data science, especially the applications of deep learning in the healthcare domain.
 
@@ -15,7 +15,7 @@ My areas of interest:
 
 ---
 
-# My Latest Projects
+## My Latest Projects
 
 [Kaggle Competition: EDA HuBMAP + HPA - Hacking the Human Body](https://www.kaggle.com/code/nghihuynh/hubmap-hpa-exploratory-data-analysis)
 <img src="images/img_hpa_info.png"/>
@@ -32,7 +32,7 @@ My areas of interest:
 
 ---
 
-# Publications
+## Publications
 
 <span style="color:green;font-weight:700;font-size:20px">
     2022
