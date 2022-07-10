@@ -43,9 +43,17 @@ A pre-trained ResUNet model to segment brain tumor in 2D images. The model perfo
 <h2 align="center">Data Science Projects</h2>
 
 [Time Trends and Predictions of Mental Health and Suicide Rates based on Socioeconomic Indicators](https://github.com/nghi-huynh/BigDataChallenge2022)
+
+**Tech Stack:** *Python, tslearn, pmdarima, Scikit-learn, Matplotlib, Seaborn, NumPy, Pandas*
+
+What is the relevance of mental health for economic development in low- and middle-income countries? Why do you think we should consider mental health when discussing suicide rates? Is there any connection between mental health, suicide rates, and economics? What are the predicted mental health trends and suicide rates for the next decade? In this project, we will answer these questions by analyzing the influences of socioeconomic factors on mental health and suicide rates on a global scale, and forecasting the trends for the next decade.
 <!-- <img src="https://drive.google.com/uc?export=view&id=1pxBjDMXc4H_pKIKvM1CzweuyJjwk-ZAH"> -->
 
 ---
 
 [COVID-19 Misinformation detection using deep learning](https://github.com/nghi-huynh/covid-19-misinfo-detection)
+
+**Tech Stack:** *Python, Tensorflow, Scikit-learn, Matplotlib, NumPy, Pandas*
+
+COVID-19 virus has rapidly spread around the world and affected lots of peoples’ lives. Unfortunately, the diffusion of misinformation related to COVID-19 also gets created and propagates wildly on social media and other platforms. In this project, we built a modified LSTM with one layer and two layers to detect those fake news.
 
