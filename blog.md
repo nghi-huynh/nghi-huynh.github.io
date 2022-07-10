@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /blogs/
+permalink: /blog/
 ---
 
 # Machine Learning Stories
