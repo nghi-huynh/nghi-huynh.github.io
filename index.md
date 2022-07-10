@@ -15,6 +15,8 @@ My areas of interest:
 * NLP
 * Data Analytics
 
+**Quick Link:** <a href="pdf/Nghi_Huynh_cv2022_np.pdf">Resume/CV</a>
+
 ---
 
 <h2 align="center">My Latest Projects</h2>
