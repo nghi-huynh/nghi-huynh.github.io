@@ -3,8 +3,10 @@ layout: default
 permalink: /chess/
 ---
 
-## Stats and fun facts
+---
+
+<h2 align="center">Stats and Fun Facts</h2>
 
 ---
 
-## Videos
+<h2 align="center">Videos</h2>
