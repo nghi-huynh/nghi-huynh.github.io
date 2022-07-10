@@ -23,6 +23,7 @@ My areas of interest:
 ---
 
 [KYMN-Mental Health Chatbot Powered by AI](https://github.com/nghi-huynh/mental_health_chatbot)
+<img src="images/CFN_architecture.png"/>
 
 ---
 
