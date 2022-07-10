@@ -38,7 +38,7 @@ Hello, I'm Nghi. I'm a McGill graduate with a major in Computer Science and Biol
 
 <h2 align="center">Publications</h2>
 
-<span style="color:green;font-weight:700;font-size:20px">
+<span style="color:black;font-weight:700;font-size:20px">
     2022
 </span>
 
@@ -48,7 +48,7 @@ Hello, I'm Nghi. I'm a McGill graduate with a major in Computer Science and Biol
 
 --- 
 
-<span style="color:green;font-weight:700;font-size:20px">
+<span style="color:black;font-weight:700;font-size:20px">
     2021
 </span>
 
