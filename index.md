@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;About Me</h2>
 
 Hello, I'm Nghi. I'm a McGill graduate with a major in Computer Science and Biology and a minor in Mathematics. I'm interested in data science, especially the applications of deep learning in the healthcare domain.
 
