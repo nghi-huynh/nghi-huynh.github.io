@@ -8,7 +8,7 @@ permalink: /portfolio/
 <h2 align="center">Machine Learning Projects</h2>
 
 [KYMN-Mental Health Chatbot Powered by AI](https://github.com/nghi-huynh/mental_health_chatbot)
-<img src="./images/mental_prevalence_world_map.png" alt="map" width="500" height="333">
+<img src="https://drive.google.com/uc?export=view&id=15-sTZn-VPjWVXmg2qyzA2s8R5HnDXwVr" alt="map" width="500" height="333">
 
 ---
 
