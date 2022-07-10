@@ -3,7 +3,9 @@ layout: default
 permalink: /blog/
 ---
 
-## Machine Learning Stories
+---
+
+<h2 align="center">Machine Learning Stories</h2>
 
 - [Neural Networks](https://medium.com/mlearning-ai/neural-networks-ba6fa76eb719)
 - [Convolutional Neural Networks for Image Recognition ](https://medium.com/mlearning-ai/convolutional-neural-networks-for-image-recognition-7148a19f981f)
