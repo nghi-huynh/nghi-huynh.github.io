@@ -7,7 +7,9 @@ permalink: /blog/
 
 <h2 align="center">Machine Learning Stories</h2>
 
-<h3>2022</h3>
+<span style="color:black;font-weight:700;font-size:20px">
+    2022
+</span>
 
 [Vision beyond classification: Task 2: Image Segmentation](https://medium.com/mlearning-ai/vision-beyond-classification-tasks-beyond-classification-task-ii-image-segmentation-5c5e81edf2b0)
 
