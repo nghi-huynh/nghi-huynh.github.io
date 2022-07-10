@@ -17,7 +17,7 @@ My areas of interest:
 
 # My Latest Projects
 
-[Kaggle Competition: HuBMAP + HPA - Hacking the Human Body](https://www.kaggle.com/code/nghihuynh/hubmap-hpa-exploratory-data-analysis)
+[Kaggle Competition: EDA HuBMAP + HPA - Hacking the Human Body](https://www.kaggle.com/code/nghihuynh/hubmap-hpa-exploratory-data-analysis)
 <img src="images/img_hpa_info.png"/>
 
 ---
