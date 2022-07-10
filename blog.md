@@ -29,7 +29,7 @@ permalink: /blog/
 
 [Neural Networks](https://medium.com/mlearning-ai/neural-networks-ba6fa76eb719)
 
-**An artificial neuron** is a building block of artificial neural networks (models). Each artificial neuron represents a simple computation and reflects some neurophysiological observations from a real neuron. However, it does not mean to reproduce their dynamics. So, we often see or hear about the analogy of a real neuron vs an artificial neuron when talking about deep learning and neural networks. But what exactly is the similarity between these two? In this story, we will explore the differences betwen them.
+**An artificial neuron** is a building block of artificial neural networks (models). Each artificial neuron represents a simple computation and reflects some neurophysiological observations from a real neuron. However, it does not mean to reproduce their dynamics. So, we often see or hear about the analogy of a real neuron vs an artificial neuron when talking about deep learning and neural networks. But what exactly is the similarity between these two? In this story, we will explore the similarities and differences betwen them.
 
 ---
 
