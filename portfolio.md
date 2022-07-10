@@ -3,7 +3,7 @@ layout: default
 permalink: /portfolio/
 ---
 
-# Machine Learning Projects
+## Machine Learning Projects
 
 ---
 
@@ -22,7 +22,7 @@ permalink: /portfolio/
 [COVID-19 Misinformation detection using deep learning](https://github.com/nghi-huynh/covid-19-misinfo-detection)
 <img src="./images/covid.png">
 
-# Data Science Projects
+## Data Science Projects
 
 [Time Trends and Predictions of Mental Health and Suicide Rates based on Socioeconomic Indicators](https://github.com/nghi-huynh/BigDataChallenge2022)
 <img src="./images/mental_prevalence_world_map.png">
