@@ -17,7 +17,7 @@ Besides working on my projects, you can find me playing chess (mostly bullet and
 * NLP
 * Data Analytics
 
-**Quick Link:** <a href="pdf/Nghi_Huynh_cv2022-2.pdf">Resume/CV</a>
+**Quick Link:** <a href="pdf/complete_cv_2022.pdf">Resume/CV</a>
 
 ---
 
